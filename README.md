@@ -13,7 +13,7 @@ Az ábrákat plantUML md fájlokban készítettem Visual Studio Code editorban p
 A versenyben többfajta kategóriában lehet indulni, minden kategóriát külön-külön értékelnek
 ### Versenyzo 
 A tehetségkutató versenyzői.
-### Helszin
+### Helyszin
 A tehetségkutató lehetséges helyszínei.
 ### Zsuri
 Zsűri tagok, akik a versenyzők produkcióját értékelik, egy zsüritag, akár többfajta kategóriájú produkciót értékelhet.
